@@ -1,4 +1,4 @@
-<h1>Hi, I'm Masa Kondo 
+<h1>Hi, I'm Masa Knd
 </h1>
 <h3><em>Visual Designer / Front-End Developer</em></h3>
 
