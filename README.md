@@ -1,6 +1,6 @@
 # Masa Knd
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=${your.username}.visitor-badge&left_color=orange&right_color=gray)
 [![GitHub MasaKnd](https://img.shields.io/github/followers/Masaknd?label=follow&style=social)](https://github.com/Masaknd)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=${your.username}.visitor-badge&left_color=orange&right_color=gray)
 
 **Web Developer**
 
