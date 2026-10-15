@@ -1,5 +1,6 @@
 # Masa Knd
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=${your.username}.visitor-badge&left_color=orange&right_color=gray)
+[![GitHub MasaKnd](https://img.shields.io/github/followers/Masaknd?label=follow&style=social)](https://github.com/Masaknd)
 
 **Web Developer**
 
@@ -73,6 +74,5 @@ I'm interested in the space where practical apps meet playful interactions.
 
 Always happy to meet people who like making things.
 
-[![GitHub MasaKnd](https://img.shields.io/github/followers/Masaknd?label=follow&style=social)](https://github.com/Masaknd)
 [![Twitter: Masaknd_dsgn](https://img.shields.io/twitter/follow/Masaknd_dsgn?style=social)](https://twitter.com/Masaknd_dsgn)
 [![Linkedin: masahiro-kondo](https://img.shields.io/badge/-masahirokondo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/masahiro-kondo/)](https://www.linkedin.com/in/masahiro-kondo)
