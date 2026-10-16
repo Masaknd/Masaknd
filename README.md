@@ -29,17 +29,7 @@ A web app I built to help designers and developers discover, collect, and revisi
 
 [Explore Good Stuff →](https://next-goodstuff.vercel.app/)
 
-## 02 / Selected projects
-
-A few starting points for building and experimenting.
-
-| Project | What's inside |
-| :--- | :--- |
-| [next-starter-template](https://github.com/Masaknd/next-starter-template) | Next.js starter based on Cloudflare's template, with TypeScript, Tailwind CSS, and OpenNext. |
-| [r3f_boilerplate](https://github.com/Masaknd/r3f_boilerplate) | A starting point for 3D websites with React Three Fiber, Three.js, GSAP, and GLSL shaders. |
-| [react_env2024](https://github.com/Masaknd/react_env2024) | A React + Vite setup with TypeScript, Tailwind CSS, Storybook, and Vitest. |
-
-## 03 / Toolkit
+## 02 / Toolkit
 
 - **Web:** JavaScript, TypeScript, HTML, CSS / SCSS, React, Next.js, Tailwind CSS
 - **3D & motion:** Three.js, React Three Fiber, GSAP
@@ -62,7 +52,7 @@ A few starting points for building and experimenting.
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white)
 
-## 04 / Exploring
+## 03 / Exploring
 
 I'm interested in the space where practical apps meet playful interactions.
 
@@ -70,7 +60,7 @@ I'm interested in the space where practical apps meet playful interactions.
 - Bringing interactive 3D to the browser with Three.js and React Three Fiber.
 - Using motion to make interfaces clearer and more enjoyable.
 
-## 05 / Elsewhere
+## 04 / Elsewhere
 
 Always happy to meet people who like making things.
 
