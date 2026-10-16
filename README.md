@@ -2,7 +2,7 @@
 [![GitHub MasaKnd](https://img.shields.io/github/followers/Masaknd?label=follow&style=social)](https://github.com/Masaknd)
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=${your.username}.visitor-badge&left_color=orange&right_color=gray)
 
-**Web Developer/Visual Designer**
+**Web Developer / Visual Designer**
 
 Hey, I'm Masa. I build web apps with an eye for the details.
 My background is in visual design; these days, I work across frontend and backend, mostly with Next.js.
